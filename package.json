@@ -1,0 +1,29 @@
+{
+  "name": "ebanc-js",
+  "version": "0.0.0",
+  "description": "A node.js wrapper for the ebanc API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eBanc/ebanc-js.git"
+  },
+  "keywords": [
+    "node",
+    "node.js"
+  ],
+  "author": "Tom Caflisch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eBanc/ebanc-js/issues"
+  },
+  "homepage": "https://github.com/eBanc/ebanc-js",
+  "dependencies": {
+    "request": "^2.47.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.2"
+  }
+}
